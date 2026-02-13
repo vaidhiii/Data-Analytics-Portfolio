@@ -15,7 +15,7 @@ Focus: Retail store performance analysis
  -Designed a dashboard with slicers  
 
 Folder:  
-`Project-1_Retail-Sales-Dashboard/`
+`Project-1_Retail-Sales-Excel-Dashboard/`
 
 ### Project 2 – Customer & Revenue Insights Dashboard (Jan 2024)
 Focus: Customer behavior + revenue analysis  
